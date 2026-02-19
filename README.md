@@ -19,4 +19,7 @@ or clone this repository and open `index.html` in your browser.
 
 ##  Author
 Dhaneswari Behera
+## 📷 Screenshot
+![Resume](Screenshot%202026-02-19%20223740.png)
+
 
